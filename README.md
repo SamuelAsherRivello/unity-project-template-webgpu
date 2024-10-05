@@ -1,4 +1,4 @@
-# Unity Project Template
+# Unity Project Template (WebGPU)
 
 This repo represents the ideal starting point for new Unity projects.
 
